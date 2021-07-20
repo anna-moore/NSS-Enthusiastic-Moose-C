@@ -10,7 +10,7 @@ void Main()
 
     // Let the moose speak!
     MooseSays("H I, I'M  E N T H U S I A S T I C !");
-    MooseSays("I really am enthusiastic");
+
 
     // As a question
     Question("Is Canada real?", "Really? It seems very unlikely.", "I  K N E W  I T !!!");
